@@ -30,4 +30,3 @@ updated the driver as per link
 $ python -m pip install --upgrade pymongo
 https://www.mongodb.com/docs/drivers/pymongo/
 """
-# updated
